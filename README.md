@@ -10,11 +10,11 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 
 ## Objetivos do Projeto
 
-- Realizar análises profundas dos preços da gasolina e do etanol durante os últimos dois meses.
-- Responder a uma série de perguntas relevantes sobre as tendências e padrões dos preços.
-- Apresentar visualizações impactantes para ilustrar os insights obtidos.
-- Realizar limpeza e preparação dos dados para uma análise robusta.
-- Propor e responder a perguntas adicionais por meio de scripts SQL.
+  - Realizar análises profundas dos preços da gasolina e do etanol durante os últimos dois meses.
+  - Responder a uma série de perguntas relevantes sobre as tendências e padrões dos preços.
+  - Apresentar visualizações impactantes para ilustrar os insights obtidos.
+  - Realizar limpeza e preparação dos dados para uma análise robusta.
+  - Propor e responder a perguntas adicionais por meio de scripts SQL.
 
 ## Ferramentas utilizadas neste projeto:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,9 +44,9 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 - **Próximos Passos**: Sugestões para futuras análises e aprimoramentos.
 
 ## Instruções de uso:
-  -**1°**: Acesse o arquivo pelo link do Google Colab
-  -**2°**: Execute os parágrafos de código, em ordem e sem pular nenhum
-  -**3°**: Importante seguir o passo anterior, caso o contrário erros ocorrerão
+  - **1°**: Acesse o arquivo pelo link do Google Colab
+  - **2°**: Execute os parágrafos de código, em ordem e sem pular nenhum
+  - **3°**: Importante seguir o passo anterior, caso o contrário erros ocorrerão
 
 ## Resultados Esperados
 
