@@ -43,7 +43,7 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 - **Conclusões e Insights**: Apresentação das conclusões e insights obtidos.
 - **Próximos Passos**: Sugestões para futuras análises e aprimoramentos.
 
-##Instruções de uso:
+## Instruções de uso:
   -**1°**: Acesse o arquivo pelo link do Google Colab
   -**2°**: Execute os parágrafos de código, em ordem e sem pular nenhum
   -**3°**: Importante seguir o passo anterior, caso o contrário erros ocorrerão
@@ -52,7 +52,7 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 
 Esperamos fornecer à ANP uma análise detalhada e esclarecedora dos preços de gasolina e etanol, identificando tendências, padrões e correlações relevantes. Nossas conclusões e insights ajudarão a ANP a tomar decisões mais informadas e aprimorar sua compreensão do mercado de combustíveis.
 
-##Conclusões da Análise Exploratória:
+## Conclusões da Análise Exploratória:
   -
   -
   -
