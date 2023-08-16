@@ -16,6 +16,14 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 - Realizar limpeza e preparação dos dados para uma análise robusta.
 - Propor e responder a perguntas adicionais por meio de scripts SQL.
 
+## Ferramentas utilizadas neste projeto:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-100000?style=for-the-badge&logo=Seaborn&logoColor=white&labelColor=black&color=05FAFA'/></a>
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ## Perguntas Principais
 
 1. Como se comportaram os preços dos combustíveis nos últimos dois meses? Houve tendências de queda ou aumento?
