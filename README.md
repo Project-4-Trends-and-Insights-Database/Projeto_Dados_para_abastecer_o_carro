@@ -18,7 +18,7 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 
 ## Ferramentas utilizadas neste projeto:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-100000?style=for-the-badge&logo=Seaborn&logoColor=white&labelColor=black&color=05FAFA'/></a>
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
