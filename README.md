@@ -46,35 +46,18 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 Esperamos fornecer à ANP uma análise detalhada e esclarecedora dos preços de gasolina e etanol, identificando tendências, padrões e correlações relevantes. Nossas conclusões e insights ajudarão a ANP a tomar decisões mais informadas e aprimorar sua compreensão do mercado de combustíveis.
 
 ## Conclusões da Análise Exploratória:
-  -
-  -
-  -
+![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/pre%C3%A7o_medio_por_estado.png)
+
+
+![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/regioes_mais_caras.pngg)
+
+
+
+![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/municipio_maior_valor.png)
+
+
+![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/municipio_menor_valor.png)
 *Explorando dados, Criando insights!*
 
-Os preços médios da gasolina e do etanol para os meses de junho e julho foram calculados da seguinte forma:
 
-Preço Médio da Gasolina em Junho: R$5.12
-Preço Médio do Etanol em Junho: R$3.35
-Preço Médio da Gasolina em Julho: R$5.21
-Preço Médio do Etanol em Julho: R$3.41
-Variação Percentual nos Preços
-Agora vamos calcular a variação percentual nos preços da gasolina e do etanol entre os meses de junho e julho.
-
-
-A variação percentual nos preços entre junho e julho foi:
-
-Variação Percentual na Gasolina: 1.846%
-Variação Percentual no Etanol: 1.865%
-Conclusões
-Com base na análise exploratória dos dados dos preços de combustíveis nos meses de junho e julho, podemos tirar algumas conclusões:
-
-Tendência de Preços: Tanto a gasolina quanto o etanol tiveram tendência de aumento de preço ao longo desses meses.
-
-Diferença de Preços: A gasolina tem preços médios mais altos em comparação com o etanol. Isso é esperado, dado que a gasolina é um combustível mais energético.
-
-Variação Percentual: A variação percentual nos preços foi similar para ambos os combustíveis, com um aumento em torno de 1.85% em média.
-
-Sazonalidade: Esses resultados sugerem uma sazonalidade nos preços dos combustíveis. É importante investigar mais para compreender melhor os fatores que podem estar influenciando essa sazonalidade.
-
-**Impacto Econômico
 
