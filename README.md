@@ -87,5 +87,19 @@ O sudeste é a segunda região em que a média é a mais baixa de cobrança de I
 São Paulo é o maior produtor de Cana-de-açúcar do Brasil com 54,1% da quantidade produzida na safra 2020/21.
 São Paulo é onde se concentra o maior número de refinarias no Brasil, aproximadamente 38% da capacidade de refino nacional.
 
+Conclusão:
+
+A análise dos dados apresentados no DataFrame e no gráfico revelou informações importantes sobre os preços dos combustíveis nos estados e municípios brasileiros. Observamos que diversos fatores influenciam os preços, como a carga tributária variável entre os estados e as distâncias dos centros de distribuição. Essas são algumas das conclusões que podemos tirar a partir dessa análise:
+
+1. **Região Norte e os Preços Elevados**: A região Norte do Brasil apresenta os preços médios mais altos de combustíveis, e isso pode ser atribuído a desafios logísticos e distâncias maiores dos centros de distribuição. A infraestrutura de transporte precisa ser melhorada para tornar o combustível mais acessível nesses locais.
+
+2. **Diferenças Regionais**: Há uma notável variação de preços entre as regiões do Brasil. A região Sudeste, por exemplo, tem preços médios mais baixos, enquanto a região Norte tem os preços mais elevados. No entanto, em todo o país, os preços médios permanecem acima de R$ 5,50.
+
+3. **Municípios com os Preços Mais Altos**: Tefe, no estado do Amazonas, destaca-se como o município com a Gasolina Aditivada mais cara do Brasil, enquanto Cruzeiro do Sul, no Acre, tem o Etanol mais caro. A dificuldade de transporte para essas localidades é um dos fatores que contribuem para esses altos preços.
+
+4. **Municípios com os Preços Mais Baixos**: Notavelmente, todos os municípios com os preços mais baixos de combustíveis estão localizados no estado de São Paulo. Isso pode ser explicado pela carga tributária mais baixa na região, a produção significativa de cana-de-açúcar e a concentração de refinarias no estado.
+
+Essas conclusões ressaltam a importância de considerar os fatores geográficos, econômicos e logísticos na determinação dos preços dos combustíveis. Além disso, sugerem a necessidade de políticas públicas que busquem tornar os combustíveis mais acessíveis em regiões distantes dos centros de distribuição, promovendo uma maior equidade de preços em todo o país.
+
 
 
