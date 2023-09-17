@@ -48,15 +48,44 @@ Esperamos fornecer à ANP uma análise detalhada e esclarecedora dos preços de 
 ## Conclusões da Análise Exploratória:
 ![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/pre%C3%A7o_medio_por_estado.png)
 
+Como podemos observar no DataFrame e visualmente no gráfico acima, temos a média de preços dos combustíveis de todos os estados brasileiros. Por diversos fatores um estado pode ter o combustível mais caro que outro, seja pela cobrança de impostos que é diferente de um estado para outro ou pela dificuldade de transporte para estados mais distantes do litoral, uma solução seria resolver o problema de infraestrutura para que o combustível possa chegar a um preço competitivo nesses locais, em especial na região Norte do país. Podemos obter as seguintes conclusões analisando o gráfico acima.
+Os estados da região Norte tem a média de preço mais cara do País.
+Os estados mais próximos a costa tendem a ter o preço médio menor em comparação ao restante do país, pois é onde a produção e importação dos combustíveis acontece.
+O estado do Amapá possui a menor média de preço da Gasolina do país, mas por outro lado, possui o etanol mais caro.
+A média de preço mais alta da Gasolina e Gasolina Aditivada é do estado do Amazonas.
+O estado do Mato Grosso tem a média de preço do Etanol mais barata do Brasil. Apesar de ser o 3° maior produtor do biocombustível no Brasil.
+
 
 ![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/regioes_mais_caras.png)
+
+
+Análisando o gráfico podemos perceber que a região norte tem a Gasolina mais cara do país, enquanto que a região sudeste tem a média mais barata do Brasil. Mas em todas as regiões os preços médios se mantém acima de R$ 5,50.
 
 
 
 ![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/municipio_maior_valor.png)
 
 
+Com o DataFrame e o gráfico acima, agora temos os municípios com o maior preço de combustível do Brasil. Como ja mencionado em analises anteriores os estados do norte do país são os que estão sempre acima da média dos valores de combustíveis em relação aos outros estados brasileiros. Podemos então concluir com esta análise que:
+
+Tefe do estado do Amazonas é o município com a Gasolina Aditivada mais cara do Brasil.
+Cruzeiro do Sul do estado do Acre, é o município com o Etanol mais caro do país.
+Tefe novamente também do estado do Amazonas, é o município com a Gasolina mais cara do Brasil.
+Ambas os municípios citados são distantes dos centros de distribuição de combustíveis, dificultando o transporte para esses locais.
+
+
 ![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/municipio_menor_valor.png)
+
+
+Ao observar nosso DataFrame e o gráfico acima, podemos conhecer quais são os municípios onde cada tipo de combustível é o mais barato do país. O interessante de se notar é que todos são municípios do estado de São Paulo. Podemos concluir que os municípios com o menor preço de combustíveis são:
+Diadema (SP) com a gasolina aditivada mais barata do Brasil.
+SANTA BARBARA D'OESTE (SP) com o etanol mais barato do Brasil.
+Sorocaba (SP) com a Gasolina mais barata do Brasil.
+Alguns pontos prováveis de se explicar o porque de apenas terem municípios do estado de São Paulo nessa análise são:
+
+O sudeste é a segunda região em que a média é a mais baixa de cobrança de ICMS.
+São Paulo é o maior produtor de Cana-de-açúcar do Brasil com 54,1% da quantidade produzida na safra 2020/21.
+São Paulo é onde se concentra o maior número de refinarias no Brasil, aproximadamente 38% da capacidade de refino nacional.
 *Explorando dados, Criando insights!*
 
 
