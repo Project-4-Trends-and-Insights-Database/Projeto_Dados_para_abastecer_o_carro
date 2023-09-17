@@ -86,7 +86,6 @@ Alguns pontos prováveis de se explicar o porque de apenas terem municípios do 
 O sudeste é a segunda região em que a média é a mais baixa de cobrança de ICMS.
 São Paulo é o maior produtor de Cana-de-açúcar do Brasil com 54,1% da quantidade produzida na safra 2020/21.
 São Paulo é onde se concentra o maior número de refinarias no Brasil, aproximadamente 38% da capacidade de refino nacional.
-*Explorando dados, Criando insights!*
 
 
 
