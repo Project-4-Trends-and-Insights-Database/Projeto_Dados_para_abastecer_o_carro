@@ -49,7 +49,7 @@ Esperamos fornecer à ANP uma análise detalhada e esclarecedora dos preços de 
 ![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/pre%C3%A7o_medio_por_estado.png)
 
 
-![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/regioes_mais_caras.pngg)
+![alt text](https://github.com/Project-4-Trends-and-Insights-Database/Projeto_Dados_para_abastecer_o_carro/blob/main/imagens_dos_graficos/regioes_mais_caras.png)
 
 
 
