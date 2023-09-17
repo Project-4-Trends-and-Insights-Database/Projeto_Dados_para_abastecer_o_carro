@@ -10,7 +10,7 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 
 ## Objetivos do Projeto
 
-  - Realizar análises dos preços da gasolina e do etanol durante os meses de junho e julho de 2023.
+  - Realizar análises dos preços da gasolina e do etanol durante os meses de julho e agosto de 2023.
   - Responder a uma série de perguntas relevantes sobre as tendências e padrões dos preços.
   - Apresentar visualizações para ilustrar os insights obtidos.
   - Realizar limpeza e preparação dos dados para uma análise.
