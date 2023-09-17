@@ -37,9 +37,9 @@ Bem-vindo ao projeto **Analytics Seven**! Neste projeto, nossa equipe se dedica 
 
 ## Instruções de uso:
   - **1°**: Acesse o arquivo pelo link do Google Colab:
-         
-  - **2°**: Execute os parágrafos de código, em ordem e sem pular nenhum
-  - **3°**: Importante seguir o passo anterior, caso o contrário erros ocorrerão
+  -**2°**: Baixe os arquivos csv presentes neste repositório e os adicione a pasta "/content" do notebook       
+  - **3°**: Execute os parágrafos de código, em ordem e sem pular nenhum
+  - **4°**: Importante seguir o passo anterior, caso o contrário erros ocorrerão
 
 ## Resultados Esperados
 
